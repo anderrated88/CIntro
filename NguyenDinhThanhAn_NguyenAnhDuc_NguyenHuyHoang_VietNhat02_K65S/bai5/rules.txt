@@ -1,0 +1,8 @@
+$ADJP:=$RB $RBR $RB $VBN[H] $S
+0 1 2 4 3
+$NP:=$NNP $NNP
+1 0
+$ADJP:=$NP $JJ
+1 0 
+$NP:=$CD $NNS
+1 0 
